@@ -2,17 +2,19 @@ import React from "react";
 import styled from "styled-components";
 import leftShapes from "../img/left-shapes.png";
 import rightShapes from "../img/right-shapes.png";
+import bg from '../img/s1200.webp'
 import { Icon } from "antd";
 
 const Wrapper = styled.section`
   width: 100%;
-  background-color: #8a8a8a;
+  background:url(${bg}) no-repeat center center/cover;
   padding: 20%;
   font-family: "Raleway", sans-serif;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
+  color: #f9f9f9;
   @media (max-width: 700px) {
     padding: 20% 0;
   }
@@ -27,12 +29,14 @@ const Wrapper = styled.section`
         font-size: 18px;
         text-align: center;
         margin: 0;
+        color: #f9f9f9;
       }
       h1 {
         font-weight: bold;
         font-size: 64px;
         text-transform: uppercase;
         margin-bottom: 0;
+        color: #f9f9f9;
         @media (max-width: 700px) {
           font-size: 32px;
         }
@@ -48,11 +52,11 @@ const Wrapper = styled.section`
           font-size: 17.22px;
         }
         span:nth-child(2) {
-          color: white;
+          color: #f9f9f9;
           font-weight: bold;
         }
         span:nth-child(3) {
-          color: white;
+          color: #f9f9f9;
           font-weight: 500;
           text-transform: uppercase;
         }
@@ -78,8 +82,8 @@ const Wrapper = styled.section`
         content: "";
         height: 5px;
         width: 100%;
-        border-top: 1px solid #e6e6e6;
-        border-bottom: 1px solid #e6e6e6;
+        border-top: 1px solid #f9f9f9;
+        border-bottom: 1px solid #f9f9f9;
       }
       div.Icon {
         text-align: center;

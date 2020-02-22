@@ -1,28 +1,29 @@
 {
   "files": {
     "main.css": "/Startuprr/static/css/main.473ebe55.chunk.css",
-    "main.js": "/Startuprr/static/js/main.84b9e954.chunk.js",
-    "main.js.map": "/Startuprr/static/js/main.84b9e954.chunk.js.map",
+    "main.js": "/Startuprr/static/js/main.96ff1acf.chunk.js",
+    "main.js.map": "/Startuprr/static/js/main.96ff1acf.chunk.js.map",
     "runtime-main.js": "/Startuprr/static/js/runtime-main.5c5af737.js",
     "runtime-main.js.map": "/Startuprr/static/js/runtime-main.5c5af737.js.map",
     "static/css/2.93772b0b.chunk.css": "/Startuprr/static/css/2.93772b0b.chunk.css",
-    "static/js/2.cf901216.chunk.js": "/Startuprr/static/js/2.cf901216.chunk.js",
-    "static/js/2.cf901216.chunk.js.map": "/Startuprr/static/js/2.cf901216.chunk.js.map",
+    "static/js/2.90a0e7cf.chunk.js": "/Startuprr/static/js/2.90a0e7cf.chunk.js",
+    "static/js/2.90a0e7cf.chunk.js.map": "/Startuprr/static/js/2.90a0e7cf.chunk.js.map",
     "index.html": "/Startuprr/index.html",
-    "precache-manifest.2c5190d35c597ea0b6616bde9d7f6ea0.js": "/Startuprr/precache-manifest.2c5190d35c597ea0b6616bde9d7f6ea0.js",
+    "precache-manifest.c16434ea4333b78f2313fb696c3ecbab.js": "/Startuprr/precache-manifest.c16434ea4333b78f2313fb696c3ecbab.js",
     "service-worker.js": "/Startuprr/service-worker.js",
     "static/css/2.93772b0b.chunk.css.map": "/Startuprr/static/css/2.93772b0b.chunk.css.map",
     "static/css/main.473ebe55.chunk.css.map": "/Startuprr/static/css/main.473ebe55.chunk.css.map",
-    "static/js/2.cf901216.chunk.js.LICENSE.txt": "/Startuprr/static/js/2.cf901216.chunk.js.LICENSE.txt",
+    "static/js/2.90a0e7cf.chunk.js.LICENSE.txt": "/Startuprr/static/js/2.90a0e7cf.chunk.js.LICENSE.txt",
     "static/media/logoExample.png": "/Startuprr/static/media/logoExample.85f8b762.png",
     "static/media/map.png": "/Startuprr/static/media/map.5f4d834e.png",
-    "static/media/mockup1.png": "/Startuprr/static/media/mockup1.a34fe9df.png"
+    "static/media/mockup1.png": "/Startuprr/static/media/mockup1.a34fe9df.png",
+    "static/media/s1200.webp": "/Startuprr/static/media/s1200.80a89543.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.5c5af737.js",
     "static/css/2.93772b0b.chunk.css",
-    "static/js/2.cf901216.chunk.js",
+    "static/js/2.90a0e7cf.chunk.js",
     "static/css/main.473ebe55.chunk.css",
-    "static/js/main.84b9e954.chunk.js"
+    "static/js/main.96ff1acf.chunk.js"
   ]
 }

@@ -4,7 +4,7 @@ import { Button } from "antd";
 
 const Wrapper = styled.section`
   width: 100%;
-  padding: 10% 20%;
+  padding: 5% 20%;
   display: flex;
   flex-direction: row;
   align-items: center;
