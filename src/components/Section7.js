@@ -63,11 +63,11 @@ const ButtonStyled = styled(Button)`
   border-color: #00a99d !important;
 `;
 const Grid = styled.div`
-  width: 99%;
+  width: 100%;
   display: grid;
-  grid-template-rows: 1fr;
-  grid-template-columns: repeat(6, 1fr);
-  grid-gap: 2px;
+  grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+  grid-gap: 1px;
+  margin: 0 auto;
 `;
 const GridWrapper = styled.div`
   background-color: ${({ props }) => props.backgroundColor};
